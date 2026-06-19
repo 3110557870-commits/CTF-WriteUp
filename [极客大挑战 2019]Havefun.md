@@ -19,9 +19,7 @@
 访问题目给出的 URL，页面显示一只猫，没有任何输入框或交互功能。
 
 ### 2. 查看源代码
+<img width="419" height="113" alt="image" src="https://github.com/user-attachments/assets/ccc5c1c1-590c-4bbf-9fe0-58ff495ecc3c" />
+注释中说让cat=dog可以得到结果故
 
-按 F12（或右键 -> 查看页面源代码），在代码底部发现一段被 `<!-- -->` 注释包裹的 PHP 代码：
-
-```php
-
-```
+使用php语句：/index.php?cat=dog
